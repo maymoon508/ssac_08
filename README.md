@@ -60,4 +60,6 @@ https://www.w3schools.com/html/html_elements.asp
 * h1 : html의 자손요소, body의 자식요소
 ```
 
+### HTML Attributes
+https://www.w3schools.com/html/html_attributes.asp
 
